@@ -1,0 +1,39 @@
+boody{
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 70px;
+  background-image:url();
+}
+
+.img1{
+  width: 100%;
+  height: 650px;
+}
+    
+a{
+  text-decoration: none;
+  color: black;
+}
+label{
+  font-size: 1rem/1.2 ;
+  padding-right: 10px ;
+}
+#divPrinc{
+  margin-bottom: 100px;
+}
+#divComun{
+  margin-top:30px;
+  border: 2px solid black;
+  padding: 5px;
+}
+#h1Titulo{
+  font-size: 3rem;
+}
+#divComun:hover {
+     transform: scale(1.01);
+     transition: 0.1s ease-in;
+}
+.titulo:hover
+{
+  color:#002aff;
+  transition: 0.2s ease-in;
+}
